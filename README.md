@@ -5,7 +5,7 @@
 ## :gear: Usage
 
 ~~~~bash
-git clone git@github.com:nicolaskruger/flcl-fan-page.git # clone the repo
+git clone git@github.com:nicolaskruger/persona3_fan_page.git # clone the repo
 
 npm install # install dependencies
 
