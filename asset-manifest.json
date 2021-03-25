@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/persona3_fan_page/static/css/main.c8ab6204.chunk.css",
+    "main.js": "/persona3_fan_page/static/js/main.27ea6804.chunk.js",
+    "main.js.map": "/persona3_fan_page/static/js/main.27ea6804.chunk.js.map",
+    "runtime-main.js": "/persona3_fan_page/static/js/runtime-main.a0f05352.js",
+    "runtime-main.js.map": "/persona3_fan_page/static/js/runtime-main.a0f05352.js.map",
+    "static/js/2.704de1fd.chunk.js": "/persona3_fan_page/static/js/2.704de1fd.chunk.js",
+    "static/js/2.704de1fd.chunk.js.map": "/persona3_fan_page/static/js/2.704de1fd.chunk.js.map",
+    "static/js/3.d1e554dd.chunk.js": "/persona3_fan_page/static/js/3.d1e554dd.chunk.js",
+    "static/js/3.d1e554dd.chunk.js.map": "/persona3_fan_page/static/js/3.d1e554dd.chunk.js.map",
+    "index.html": "/persona3_fan_page/index.html",
+    "static/css/main.c8ab6204.chunk.css.map": "/persona3_fan_page/static/css/main.c8ab6204.chunk.css.map",
+    "static/js/2.704de1fd.chunk.js.LICENSE.txt": "/persona3_fan_page/static/js/2.704de1fd.chunk.js.LICENSE.txt",
+    "static/media/aginis.c17e9446.png": "/persona3_fan_page/static/media/aginis.c17e9446.png",
+    "static/media/logo.7e8c4437.png": "/persona3_fan_page/static/media/logo.7e8c4437.png",
+    "static/media/makoto.02a0fdfd.png": "/persona3_fan_page/static/media/makoto.02a0fdfd.png",
+    "static/media/moon.6e5c2e24.svg": "/persona3_fan_page/static/media/moon.6e5c2e24.svg",
+    "static/media/sun.9b7edc2c.svg": "/persona3_fan_page/static/media/sun.9b7edc2c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0f05352.js",
+    "static/js/2.704de1fd.chunk.js",
+    "static/css/main.c8ab6204.chunk.css",
+    "static/js/main.27ea6804.chunk.js"
+  ]
+}
